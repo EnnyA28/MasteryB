@@ -1,0 +1,11 @@
+(gdb) show commands
+   26  p reader -> token
+   27  q
+   28  run basic_add.s
+   29  p val_a
+   30  q
+   31  run multi_op_err2
+   32  run multi_op_err
+   33  q
+   34  q
+   35  show commands

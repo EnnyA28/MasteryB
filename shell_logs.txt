@@ -1,0 +1,500 @@
+    5  make
+    6  python3 driver.py -w2
+    7  make clean
+    8  make
+    9  python3 driver.py -w2
+   10  make clean
+   11  make
+   12  python3 driver.py -w2
+   13  make clean
+   14  make
+   15  python3 driver.py -w2
+   16  make clean
+   17  make
+   18  python3 driver.py -w2
+   19  make clean
+   20  make
+   21  python3 driver.py -w2
+   22  make clean
+   23  make
+   24  make clean
+   25  make
+   26  python3 driver.py -w2
+   27  make clean
+   28  make
+   29  python3 driver.py -w2
+   30  make clean
+   31  make 
+   32  python3 driver.py -w2
+   33  make clean
+   34  make
+   35  python3 driver.py -w2
+   36  make clean
+   37  make
+   38  python3 driver.py -w2
+   39  make clean
+   40  make
+   41  python3 driver.py -w2
+   42  make clean
+   43  make
+   44  python3 driver.py -w2
+   45  ./runner -r traces/week2/basic/amptjp-bal.rep
+   46  ./runner -r traces/week2/basic/amptjp-bal.rep -v
+   47  ./runner -r traces/week2/basic/random-bal.rep -v
+   48  make clean
+   49  make
+   50  ./runner -r traces/week2/basic/random-bal.rep -v
+   51  make clean
+   52  make
+   53  ./runner -r traces/week2/basic/random-bal.rep -v
+   54  make clean
+   55  make
+   56  ./runner -r traces/week2/basic/random-bal.rep -v
+   57  python3 driver.py -w2
+   58  make clean
+   59  make
+   60  python3 driver.py -w2
+   61  make clean
+   62  make
+   63  python3 driver.py -w2
+   64  make clean
+   65  make
+   66  python3 driver.py -w2
+   67  make clean
+   68  make
+   69  python3 driver.py -w2
+   70  make clean
+   71  make
+   72  python3 driver.py -w2
+   73  make clean
+   74  make
+   75  python3 driver.py -w2
+   76  make clean
+   77  make
+   78  python3 driver.py -w2
+   79  make clean
+   80  make
+   81  python3 driver.py -w2
+   82  ./runner -r traces/week2/basic/random-bal.rep -v
+   83  make clean
+   84  make
+   85  python3 driver.py -w2
+   86  make clean
+   87  make
+   88  python3 driver.py -w2
+   89  make clean
+   90  make
+   91  python3 driver.py -w2
+   92  git add .
+   93  git commit -m "week2 checkpoint"
+   94  git push
+   95  make clean
+   96  make
+   97  python3 driver.py -w2
+   98  make clean
+   99  make
+  100  python3 driver.py -w2
+  101  make clean
+  102  make
+  103  make clean
+  104  make
+  105  make clean
+  106  make
+  107  make clean
+  108  make
+  109  python3 driver.py -w2
+  110  make clean
+  111  make
+  112  python3 driver.py -w2
+  113  make clean
+  114  make
+  115  python3 driver.py -w2
+  116  make clean
+  117  make
+  118  python3 driver.py -w2
+  119  make clean
+  120  make
+  121  python3 driver.py -w2
+  122  make clean
+  123  make
+  124  make
+  125  python3 driver.py -w2
+  126  make clean
+  127  make
+  128  python3 driver.py -w2
+  129  git add .
+  130  git commit -m "trial"
+  131  git push
+  132  make clean
+  133  make
+  134  python3 driver.py -w2
+  135  make clean
+  136  make
+  137  python3 driver.py -w2
+  138  make clean
+  139  make
+  140  make clean
+  141  makje
+  142  make clean
+  143  make
+  144  make clean
+  145  make
+  146  python3 driver.py -w2
+  147  make
+  148  make clean
+  149  make
+  150  make clean
+  151  make
+  152  make clean
+  153  make
+  154  python3 driver.py -w2
+  155  make clean
+  156  make
+  157  python3 driver.py -w2
+  158  make clean
+  159  make
+  160  python3 driver.py -w2
+  161  make clean
+  162  make
+  163  python3 driver.py -w2
+  164  make clean
+  165  make
+  166  python3 driver.py -w2
+  167  make clean
+  168  make
+  169  python3 driver.py -w2
+  170  make clean
+  171  make
+  172  python3 driver.py -w2
+  173  make clean]
+  174  make clean
+  175  make
+  176  make clean
+  177  make
+  178  python3 driver.py -w2
+  179  make clean
+  180  make
+  181  python3 driver.py -w2
+  182  make clean
+  183  make
+  184  python3 driver.py -w2
+  185  make clean
+  186  make
+  187  python3 driver.py -w2
+  188  make clean
+  189  make
+  190  python3 driver.py -w2
+  191  git add .
+  192  git commit -m "week2test"
+  193  git push
+  194  make clean
+  195  make
+  196  python3 driver.py -w2
+  197  ./runner -r traces/week2/basic/random-bal.rep -v
+  198  make clean
+  199  make
+  200  ./runner -r traces/week2/basic/random-bal.rep -v
+  201  make clean
+  202  make
+  203  ./runner -r traces/week2/basic/random-bal.rep -v
+  204  make clean
+  205  make
+  206  ./runner -r traces/week2/basic/random-bal.rep -v
+  207  make clean
+  208  make
+  209  ./runner -r traces/week2/basic/random-bal.rep -v
+  210  make clean
+  211  make
+  212  ./runner -r traces/week2/basic/random-bal.rep -v
+  213  python3 driver.py -w2
+  214  make clean
+  215  make
+  216  python3 driver.py -w2
+  217  make clean make
+  218  make clean
+  219  make
+  220  make clean
+  221  make
+  222  python3 driver.py -w2
+  223  make clean
+  224  make
+  225  make clean
+  226  make
+  227  python3 driver.py -w2
+  228  git add .
+  229  git commit -m "week 2 checkpoint"
+  230  git push
+  231  make clean
+  232  make
+  233  python3 driver.py -w2
+  234  make
+  235  make clean
+  236  make
+  237  python3 driver.py -w2
+  238  make clean
+  239  make
+  240  python3 driver.py -w2
+  241  make clean
+  242  make
+  243  python3 driver.py -w2
+  244  git add .
+  245  git commit -m "week 2 checkpoint with comments"
+  246  git push
+  247  make clean
+  248  make
+  249  python3 driver.py -w2
+  250  make clean
+  251  make]
+  252  make
+  253  python3 driver.py -w2
+  254  make
+  255  ./mini_ci
+  256  ./mini_ci testcases/basic_add.s
+  257  ./mini_ci testcases/basic_div.s
+  258  ./mini_ci mini_ci_reference
+  259  make check
+  260  make debug
+  261  make debug
+  262  make clean
+  263  make debug
+  264  gdb mini_ci
+  265  make clean
+  266  ./mini_ci testcases/basic_add.s
+  267  make mini_ci
+  268  ./mini_ci testcases/basic_add.s
+  269  make clean
+  270  make
+  271  testcases/basic_add.s
+  272  ./mini_ci testcases/basic_add.s
+  273  make
+  274  ./mini_ci testcases/basic_add.s
+  275  ./mini_ci testcases/err_ops
+  276  make check
+  277  ./mini_ci testcases/err_op.s
+  278  ./mini_ci testcases/err_ops.s
+  279  make clean
+  280  make debug
+  281  gdb mini_ci
+  282  make clean
+  283  make
+  284  make check
+  285  make check
+  286  gdb mini_ci
+  287  pwd
+  288  touch ~/.gdbinit
+  289  echo "set history save on"
+  290  echo "set history save on" > ~/.gdbinit
+  291  pwd
+  292  ls
+  293  ls -a
+  294  pwd
+  295  mkdir MasterA
+  296  pwd
+  297  ls -a
+  298  cd MasterA
+  299  pwd
+  300  git clone git@github.com:EnnyA28/MasteryA.git
+  301  gdb mini_ci
+  302  make clean
+  303  make debug
+  304  gdb mini_ci
+  305  make clean
+  306  make check
+  307  make clean
+  308  make debug
+  309  make check
+  310  gdb mini_ci
+  311  make check
+  312  make clean
+  313  make check
+  314  ./mini_ci_refernce basic_add.s
+  315  ./mini_ci_reference basic_add.s
+  316  make check
+  317  make clean
+  318  make check
+  319  make clean
+  320  make check
+  321  make debug
+  322  gdb mini_ci
+  323  make debug
+  324  make clean
+  325  make debug
+  326  gdb mini_ci
+  327  make clean
+  328  make
+  329  make check
+  330  make clean
+  331  make debug
+  332  gdb mini_ci
+  333  make clean
+  334  make
+  335  make check
+  336  make clean
+  337  make debug
+  338  gdb mini_ci
+  339  make clean
+  340  make check
+  341              struct Token *val_b = head->next->next; 
+  342  make debug
+  343  make clean
+  344  make debug
+  345  gdb mini_ci
+  346  make clean
+  347  make check
+  348  make clean
+  349  make check
+  350  make clean
+  351  make check
+  352  make clean
+  353  make debug\
+  354  gdb mini_ci
+  355  make clean
+  356  make check
+  357  make clean
+  358  make check
+  359  make clean
+  360  make check
+  361  make clean
+  362  make check
+  363  make clean
+  364  make check
+  365  cat testcases/basic_add.s
+  366  make clean
+  367  make check
+  368  cat testcases/basic_add.s
+  369  make clean
+  370  make ./mini_ci testcases/basic_add.s
+  371  mini_ci testcases/basic_add.s
+  372  make 
+  373  ./mini_ci testcases/basic_add.s 
+  374  make clean
+  375  ./mini_ci testcases/basic_add.s 
+  376  make
+  377  ./mini_ci testcases/basic_add.s 
+  378  make clean && make
+  379  make debug
+  380  make clean
+  381  make debug
+  382  gdb mini_ci
+  383  make clean
+  384  make
+  385  make check
+  386  ./mini_ci_reference testcases/basic_add.s
+  387  make clean
+  388  make check
+  389  make clean
+  390  make
+  391  make check
+  392  make clean
+  393  make
+  394  make check
+  395  make clean
+  396  make check
+  397  make
+  398  make
+  399  make check
+  400  make clean
+  401  make
+  402  make check
+  403  make clean 
+  404  make
+  405  make check
+  406  make
+  407  chmod x ./mini_ci_reference
+  408  chmod + x ./mini_ci_reference
+  409  chmod +x ./mini_ci_reference
+  410  ls - ./mini_ci_reference 
+  411  ls -l ./mini_ci_reference
+  412  make check
+  413  make debug
+  414  make clean
+  415  make debug
+  416  gdb mini_ci
+  417  make clean
+  418  make
+  419  make check
+  420  make clean
+  421  make
+  422  make check
+  423  gdb mini_ci
+  424  make clean
+  425  make
+  426  make debug
+  427  make
+  428  make clean
+  429  make
+  430  make debug
+  431  make
+  432  make debug
+  433  make
+  434  git touch ~/.gdbinit
+  435  touch ~/.gdbinit
+  436  ls -a
+  437  echo "set history save on"
+  438  echo "set history save on" > ~/.gdbinit
+  439  ls -a
+  440  pwd
+  441  cat ~/.gdbinit
+  442  mkdir MasteryB
+  443  cd MasteryB
+  444  pwd
+  445  git clone git@github.com:EnnyA28/MasteryA.git
+  446  cd ..
+  447  pwd
+  448  rm -rf MasteryB
+  449  ls
+  450  mkdir MasteryB
+  451  git clone git@github.com:EnnyA28/MasteryB.git
+  452  make clean
+  453  make
+  454  make check
+  455  ls -l mini_ci_reference
+  456  chmod +x mini_ci_reference
+  457  ls -l mini_ci_reference
+  458  make check
+  459  chmod +x mini_ci_reference
+  460  make debug
+  461  make
+  462  make clean
+  463  make all
+  464  make
+  465  make debug
+  466  gdb mini_ci
+  467  make clean
+  468  make debug
+  469  gdb mini_ci
+  470  gdb mini_ci
+  471  make clean
+  472  make
+  473  make check
+  474  p val_b
+  475  make debug
+  476  make clean
+  477  make debug
+  478  gdb mini_ci
+  479  make clean
+  480  make
+  481  make check
+  482  make clean
+  483  make
+  484  make check
+  485  make clean
+  486  make
+  487  make check
+  488  make clean
+  489  make
+  490  make check
+  491  make debug
+  492  make clean
+  493  make debug
+  494  gdb mini_ci
+  495  make clean
+  496  make
+  497  make check
+  498  git add .
+  499  git commit -m "updated code"
+  500  git push
+  501  make
+  502  make check
+  503  history
+  504  history > shell_logs.txt

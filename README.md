@@ -35,7 +35,7 @@ To run an individual testcase use
 4. Clone this repository
 5. Read then use the Makefile
 6. Debug the test cases using gdb; you must use gdb to pass this mastery assessment.
-7. Ensure your output matches the reference exactly.
+7. Ensure your output matches the reference exactly.//////////////////
 8. Write the outputs of the `history` command to a file in this repo called `shell_logs.txt`
 9. While in gdb, use the command `show commands` to display your most recently used commands. Write this output to a file in this repo called `gdb_logs.txt`
 10. Commit and push your changes. Do not forget to add `shell_logs.txt` and `gdb_logs.txt` to git.
